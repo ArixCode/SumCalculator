@@ -1,2 +1,2 @@
 # SumCalculator
-A sum calculator built in Java for numbers
+A sum calculator built in Java for doubles
